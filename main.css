@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(127, 182, 255);
+    font-family: Poppins;
+   
+}
+
+.ot1 {
+  color:black;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.hb1 {
+  color:black;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home {
+  color:rgb(27, 4, 128);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: x-large;
+}
+
+.table1 {
+    border-collapse: collapse;
+  }
+  
+  .td1 {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: left;
+    background: hsl(187, 82%, 58%);
+  }
+
+  .th1 {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: left;
+    background: hsl(276, 73%, 47%);
+  }
+
+  .table2 {
+    border-collapse: collapse;
+    
+  }
+  
+  .td2 {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: left;
+    background: hsl(54, 100%, 51%);
+  }
+
+  .th2 {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: left;
+    background: hsl(22, 81%, 60%);
+  } 
